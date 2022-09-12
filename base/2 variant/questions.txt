@@ -1,0 +1,51 @@
+[1/10] Yuk avtomobili haydovchisi to`xtab turish qoidasini buzdimi?
+
+-Xato qilmadi
+-Buzmadi, agar uning ruxsat etilgan to'liq vazni 3,5 tonnadan oshmagan bo'lsa
+*Buzdi
+
+[2/10] Qaysi haydovchi to`xtab turish qoidalarini buzdi?
+-Motosikl haydovchisi
+*Trotuarda to'xtab turgan avtomobil haydovchisi
+-Hech kim buzmadi
+
+[3/10] Yo`lning sirpanchiq qismida rul chambaragini keskin burganda hosil bo`ladigan sirpannishning oldini olish uchun haydovchi qanday ehtiyot choralarini ko`rishi kerak?
+-Tormoz tepkisini bosish
+-Ilashmani uzish
+*Rul chambaragini zudlik bilan sirpanayotgan tomonga burish va tezda harakat yo'nalishini to'g'irlash
+
+[4/10] Sanab o`tilgan qaysi holatda transport vositasidan foydalanishga ruxsat etiladi?
+-Tashqi yoritish asboblari ifloslangan bo'lsa
+*Old qismida - oq yoki rangli tumanga qarshi faralar o'rnatilgan bo'lsa
+-Yorituvchi chiroq nurining yo'nalishi buzilgan bo'lsa
+
+[5/10] Chorrahaga kirganingizda tartibga soluvchi qo`lini yuqoriga ko`tardi, sizga harakatlanishga ruxsat etiladimi?
+*Ruxsat etiladi
+-Ruxsat etiladi, agarda siz o'ngga buriladigan bo'lsangiz
+-Ruxsat etilmaydi
+
+[6/10] Qanday hollarda aholi punktlarida tovush moslamalaridan foydalanishga ruxsat etiladi?
+*Yo'l-transport hodisasining oldini olish uchun
+-Quvib o'tishda ogohlantirish uchun
+-Hark ikkala sanab o'tilgan hollarda
+
+[7/10] Ko`rsatilgan yo`l belgilaridan qaysi biri faqat yo`l qoplamasi nam bo`lganda ta`sir etadi?
+-Barchasi
+-Faqat "A" va "B"
+*Faqat "A"
+
+[8/10] Ko`rsatilgan qaysi belgi sizga yashash manzilingizga avtomobilda o`tishga ruxsat beradi?
+-Barchasi 
+*Faqat "A" va "V"
+-Faqat "A"
+-Faqat "V"
+
+[9/10] Turar joy dahalarida qanday harakatlar taqiqlangan?
+-Faqat o'quv mashg'ulotlarini bajarish
+-Faqat dvigateli ishlab turganda to'xtab turish
+*Barcha sanab o'tilgan hollarda
+
+[10/10] Transport vositalari qattiq ulagichda shatakka olinganda shatakka olgan va olingan transport vositalari orasidagi masofa qancha bo`lishi kerak?
+*4 metrdan oshmasligi
+-Qoidalarda belgilanmagan
+-4 metrdan 6 metrgacha

@@ -1,0 +1,61 @@
+[1/10] Siz chorrahada chapga burilmoqchisiz. Ushbu vaziyatda kimga yo`l berasiz?
+-Faqat qizil avtomobilga
+*Hech kimga
+-Faqat avtibusga
+
+[2/10] Ushbu chorrahada to'g'riga o'tmoqchisiz. Ushbu vaziyatda sizning harakatingiz?
+-Chorrahaga birinchi kirgan qizil avtomobilga yo'l berish
+*Qizil avtomobil yo'l berayotganiga ishonch hosil qilib chorrahadan birinchi o'tish
+
+[3/10] Ushbu ko`rsatilgan holatda motosikl haydovchisi sizga yo`l berishi kerakmi?
+-Yo'q
+*Ha
+
+[4/10] Ushbu joyda avtomobilni to'xtab turish uchun qo'yishga ruxsat etiladimi?
+-Yo'q
+*Ha
+
+[5/10] Svetaforning yashil miltillovchi ishora nimani bildiradi?
+*Harakatga ruxsat beradi va tez orada taqiqlovchi ishora yonishi to'g'risida axborot beradi
+-Svetafor nosozligini
+-Harakatni davom ettishni taqiqlaydi
+
+[6/10] Yo`lda "TO'XTASh" yozuvi ko`rinishidagi yo`l chizig`i nimani bildiradi?
+
+*"To'xtash chizig'i" va "To'xtamasdan harakatlanish taqiqlanadi" yo'l belgisi o'rnatilgan yo'l qismiga
+-"Yo'l bering" yo'l belgisi yaqinlashayotganini bildiradi
+-Tartibga solingan chorrahada to'xtash chizig'iga yaqinlashayotganligi haqida ogohlantiradi
+
+
+[7/10] Sanab o`tilgan qaysi hollarda egiluvchan ulagichda shatakka olish taqiqlanadi?
+
+*Yo'l yaxmalak, sirpanchiq bo'lgan hollarda
+-Faqat to'g'ri yo'llarda
+-Barcha sanab o'tilgan hollarda
+-Kunning qorong'i vaqtida yetarlicha ko'rinmaslik sharoitida
+
+[8/10] Ushbu yo`l nechta harakatlanish bo`lagiga ega?
+
+-Uchta harakatlanish bo'lagiga
+-Bitta harakatlanish bo'lagiga
+*Ikkita harakatlanish bo'lagiga
+
+
+[9/10] Qaysi hollarda yo`lning harakatlanish bo`lagini ajratuvchi uzuq-uzuq chiziqni bosib o`tish mumkin.
+
+*Faqat qayta tizilishda
+-Yo'lda boshqa transport vositalari bo'lmasa
+-Barcha sanab o'tilgan hollarda
+
+
+[10/10] Ushbu belgilardan qaysi biri bir tomonlama harakat tashki qilingan yo`lning boshida o`rnatiladi?
+
+-"B" yoki "G"
+-"B" yoki "V"
+*Faqat "B"
+-Faqat "A"
+
+
+
+
+
